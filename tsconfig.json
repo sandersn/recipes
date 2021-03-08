@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "checkJs": true,
+        "strict": true,
+        "noEmit": true
+    },
+    files: [
+        "types.d.ts",
+        "recipes.js"
+    ]
+}
