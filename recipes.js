@@ -58,6 +58,14 @@ const recipes = {
             "cilantro": "1/4 bunch, roughly chopped",
         }
     },
+    "Pancakes": {
+        ingredients: {
+            "Bob's Red Mill Gluten Free Pancake Mix": "2 cups",
+            "margarine": "2 tablespoons",
+            "eggs": "2",
+            "milk": "1 1/2 cups",
+        },
+    },
 }
 
 /** @type {Record<string, string[]>} */
