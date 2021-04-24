@@ -1,3 +1,4 @@
 type Recipe = {
-    ingredients: Record<string, string>
+    ingredients: Record<string, string>,
+    instructions?: string[],
 }
